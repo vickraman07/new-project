@@ -13,5 +13,6 @@ public class Swap {
         y = temp;
         System.out.println("After swapping: "+x +"   " + y);
         System.out.println( );
+        sc.close();
     }
 }
